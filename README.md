@@ -7,9 +7,9 @@
 - Created classes_and_objects topic package on feature/session_1
 - Implemented 5 OOP problems: PlacementRecord, MessWallet, Course, IdCard, Student
 - Verified all outputs match expected results
+- - Implemented 5 OOP assignment problems: BookInventory, PayrollAccount, Employee, HallTicket, EmployeeStatic
 
 **Next Session Plan:**
-- Continue with assigment_problems for classes_and_objects
 - Start Session 2 topic
 
 **Issues Faced:**
