@@ -1,16 +1,20 @@
-<img width="1470" height="956" alt="image" src="https://github.com/user-attachments/assets/1679334c-378d-492f-a4fc-4d235681d31c" /># Step_semester_3
 
-## Date: 22-08-2026
+# Step_semester_3
+
+## Date: 28-08-2026
 
 **Today's Work:**
-- Set up repo structure with main, develop, and feature branches
-- Created README.md with logging format for daily updates
+- Created classes_and_objects topic package on feature/session_1
+- Implemented 5 OOP problems: PlacementRecord, MessWallet, Course, IdCard, Student
+- Verified all outputs match expected results
 
 **Next Session Plan:**
-- Initialize Java project skeleton on develop branch
-- Start working on first problem in feature/session_1
+- Continue with assigment_problems for classes_and_objects
+- Start Session 2 topic
 
 **Issues Faced:**
 - None
 
 ---
+
+## Date: 22-08-2026
