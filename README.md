@@ -11,15 +11,18 @@
 - Created feature/session_2 branch from develop
 - Set up string_operations topic package with class_problems
 - Implemented 5 string manipulation problems: VowelConsonantCounter, CsvStudentRecordParser, FileExtensionValidator, MaskedPhoneFormatter, BankTransactionValidator
+- Implemented 5 string_operations assigment_problems: PinLengthValidator, WordReversalEncoder, InventoryCsvParser, IsbnNormalizerValidator, WordFrequencyReport
 - Verified all outputs match expected results
-- Implemented 5 string_operations assigment_problems: PinLengthValidator, WordReversalEncoder, InventoryCsvParser, IsbnNormalizerValidator, WordFrequencyReport- Implemented 5 string_operations assigment_problems: PinLengthValidator, WordReversalEncoder, InventoryCsvParser, IsbnNormalizerValidator, WordFrequencyReport
+- Created feature/session_1 branch from develop (new content)
+- Set up programming_fundamentals topic package with class_problems
+- Implemented 5 problems: RockPaperScissorsGame, PalindromeChecker, BmiCalculator, FirstNonRepeatingChar, ReverseCustomerName
+- Verified all outputs match expected results
 
 **Next Session Plan:**
-- Work on assigment_problems for string_operations (if assigned)
+- Work on assigment_problems for programming_fundamentals and oop_constructs (if assigned)
 
 **Issues Faced:**
 - None
-
 ---
 ## Date: 28-08-2026
 
