@@ -17,6 +17,7 @@
 - Set up programming_fundamentals topic package with class_problems
 - Implemented 5 problems: RockPaperScissorsGame, PalindromeChecker, BmiCalculator, FirstNonRepeatingChar, ReverseCustomerName
 - Verified all outputs match expected results
+- Implemented 5 programming_fundamentals assigment_problems: SeatDuplicationChecker, TypingAccuracyChecker, TrafficStreakAnalyzer, WarehouseInventoryBalancer, MovieReviewWordLengthProfiler
 
 **Next Session Plan:**
 - Work on assigment_problems for programming_fundamentals and oop_constructs (if assigned)
