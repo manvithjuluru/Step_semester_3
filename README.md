@@ -12,6 +12,7 @@
 - Set up string_operations topic package with class_problems
 - Implemented 5 string manipulation problems: VowelConsonantCounter, CsvStudentRecordParser, FileExtensionValidator, MaskedPhoneFormatter, BankTransactionValidator
 - Verified all outputs match expected results
+- Implemented 5 string_operations assigment_problems: PinLengthValidator, WordReversalEncoder, InventoryCsvParser, IsbnNormalizerValidator, WordFrequencyReport- Implemented 5 string_operations assigment_problems: PinLengthValidator, WordReversalEncoder, InventoryCsvParser, IsbnNormalizerValidator, WordFrequencyReport
 
 **Next Session Plan:**
 - Work on assigment_problems for string_operations (if assigned)
