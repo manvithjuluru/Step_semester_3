@@ -1,6 +1,22 @@
 
 # Step_semester_3
 
+## Date: 05-09-2026
+
+**Today's Work:**
+- Created feature/session_5 branch from develop
+- Set up modifiers_and_encapsulation topic package with class_problems
+- Implemented 5 problems (8 classes total): AccessChecker, MovieTicket, PremiumMovieTicket, CineScreen, MovieBookingProfile, BookingReceipt, GroupBookingReceipt, NightlySettlementProcessor
+- Verified all outputs match expected results
+
+**Next Session Plan:**
+- Continue with assigment_problems for modifiers_and_encapsulation (if assigned)
+
+**Issues Faced:**
+- None
+
+---
+
 ## Date: 29-08-2026
 
 **Today's Work:**
