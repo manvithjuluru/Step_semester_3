@@ -18,7 +18,8 @@
 - Implemented 5 problems: RockPaperScissorsGame, PalindromeChecker, BmiCalculator, FirstNonRepeatingChar, ReverseCustomerName
 - Verified all outputs match expected results
 - Implemented 5 programming_fundamentals assigment_problems: SeatDuplicationChecker, TypingAccuracyChecker, TrafficStreakAnalyzer, WarehouseInventoryBalancer, MovieReviewWordLengthProfiler
-
+- Implemented 5 oop_constructs assigment_problems (7 classes): Participant, Item, ParkingTicket, MembershipCard, Payment, CardPayment, PaymentDispatcher
+- Verified all outputs match expected results
 **Next Session Plan:**
 - Work on assigment_problems for programming_fundamentals and oop_constructs (if assigned)
 
