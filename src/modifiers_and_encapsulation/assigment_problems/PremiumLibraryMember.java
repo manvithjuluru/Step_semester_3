@@ -1,4 +1,16 @@
-package modifiers_and_encapsulation.assigment_problems;
+class PremiumLibraryMember extends LibraryMember {
 
-public class PremiumLibraryMember {
+    private int loyaltyPoints;
+
+    public PremiumLibraryMember() {
+        loyaltyPoints = 0;
+    }
+
+    public void addPoints(int points) {
+        loyaltyPoints += points;
+    }
+
+    public int getLoyaltyPoints() {
+        return loyaltyPoints;
+    }
 }

@@ -1,4 +1,22 @@
-package modifiers_and_encapsulation.assigment_problems;
+public class ReferenceOnlyLoanReceipt
+        extends LoanReceipt {
 
-public class ReferenceOnlyLoanReceipt {
+    private String roomNumber;
+
+
+    public ReferenceOnlyLoanReceipt(
+            String memberId,
+            String[] bookIds,
+            String roomNumber) {
+
+        super(memberId, bookIds);
+
+        this.roomNumber = roomNumber;
+    }
+
+
+    public String getRoomNumber() {
+
+        return roomNumber;
+    }
 }
