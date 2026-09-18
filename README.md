@@ -1,6 +1,22 @@
 
 # Step_semester_3
 
+## Date: 18-09-2026
+
+**Today's Work:**
+- Created feature/session_6 branch from develop
+- Set up package with class_problems
+- Implemented 5 problems (5 classes total): Problem1 , Problem2 , Problem3 , Problem4 , Problem5
+- Verified all outputs match expected results
+
+**Next Session Plan:**
+- Continue with assigment_problems.
+
+**Issues Faced:**
+- None
+
+---
+
 ## Date: 05-09-2026
 
 **Today's Work:**
