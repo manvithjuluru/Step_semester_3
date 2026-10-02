@@ -1,6 +1,24 @@
 
 # Step_semester_3
 
+## Date: 02-10-2026
+
+**Today's Work:**
+- Created feature/session_6 branch from develop
+- Set up package with class_problems
+- Implemented 5 problems (5 classes total): Problem1 , Problem2 , Problem3 , Problem4 , Problem5
+- Set up package with Assigment_problems
+- Implemented 5 problems (5 classes total) : Problem1 , Problem2 , Problem3 , Problem4 , Problem5
+- Verified all outputs match expected results
+
+**Next Session Plan:**
+- Continue with class problems in the upcoming session.
+
+**Issues Faced:**
+- None
+
+---
+
 ## Date: 18-09-2026
 
 **Today's Work:**
@@ -26,7 +44,7 @@
 - Verified all outputs match expected results
 
 **Next Session Plan:**
-- Continue with assigment_problems for modifiers_and_encapsulation (if assigned)
+- Continue with assigment_problems for modifiers_and_encapsulation 
 
 **Issues Faced:**
 - None
