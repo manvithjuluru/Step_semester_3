@@ -1,6 +1,24 @@
 
 # Step_semester_3
 
+## Date: <11-10-2026>
+
+**Today's Work:**
+- Created feature/session_10 branch from develop
+- Set up package with class_problems
+- Implemented 5 OOP problems (Account, Vehicle, ClubMember, marks grid analysis, Staff payroll): Problem1, Problem2, Problem3, Problem4, Problem5
+- Set up package with assigment_problems
+- Implemented 5 linked list problems (insertion, removeAll, reverse, doubly linked list, circular linked list): Assignment1, Assignment2, Assignment3, Assignment4, Assignment5
+- Verified all outputs match expected results
+
+**Next Session Plan:**
+- Continue with class problems in the upcoming session.
+
+**Issues Faced:**
+- None
+
+---
+
 ## Date: 02-10-2026
 
 **Today's Work:**
