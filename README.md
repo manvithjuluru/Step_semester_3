@@ -1,7 +1,24 @@
 
 # Step_semester_3
 
-## Date: <11-10-2026>
+## Date: 31-10-2026
+
+**Today's Work:**
+- Created feature/session_11 branch from develop
+- Set up package with class_problems
+- Implemented 10 linked list problems (circular print, doubly insert/delete, remove first K, delete Nth, split in half, reverse first K, count nodes, empty check, circular insert): Problem1 to Problem10
+- Set up package with assigment_problems
+- Implemented 5 sorting problems (bubble sort, stable insertion sort, merge sort inversion count, quickselect, counting sort): Problem1 to Problem5
+- Verified all outputs match expected results
+
+**Next Session Plan:**
+- Continue with class problems in the upcoming session.
+
+**Issues Faced:**
+- None
+
+---
+## Date: 11-10-2026
 
 **Today's Work:**
 - Created feature/session_10 branch from develop
